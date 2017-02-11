@@ -53,7 +53,7 @@ public:
 	REALV scv_w_O1F2, O1_v_alpha, O1_v_T;
 	REALV scv_w_O2F3, O2_v_alpha, O2_v_T;
 	//
-    int num_d;
+	int num_d;
 	int K, K_2;
 	REALV disp_x[MAX_L3];
 	REALV disp_y[MAX_L3];
